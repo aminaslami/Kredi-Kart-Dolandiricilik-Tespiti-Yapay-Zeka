@@ -16,4 +16,4 @@ pip install scikit-learn
 pip install warnings-plugin
 
 Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz gerekiyor, aksi takdirde proje hata verecektir.
-## Eğer kütühaneleri ekleeden hata alıyorsunuz, çok çok büyük ihtimalle Python versiyon ve yüklediniz kütüphane hatasıdır, yani çok muhtemldir bu şekilde hata çıkması, çoğu internette çözümü vardır. Ama yoğun olarak İngilizce araştırmak gereklidir.
+## Eğer kütühaneleri ekleme zamanında veya yükledikten sonra hata alıyorsunuz, çok çok büyük ihtimalle Python versiyon ve yüklediniz kütüphane hatasıdır, yani çok muhtemldir bu şekilde hata çıkması, çoğu internette çözümü vardır. Ama yoğun olarak İngilizce araştırmak gereklidir.
