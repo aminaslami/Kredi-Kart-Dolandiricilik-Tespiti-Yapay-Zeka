@@ -18,16 +18,16 @@ pip install warnings-plugin
 Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz gerekiyor, aksi takdirde proje hata verecektir.
 ## Eğer kütühaneleri ekleme zamanında veya yükledikten sonra hata alıyorsunuz, çok çok büyük ihtimalle Python versiyon ve yüklediniz kütüphane hatasıdır, yani çok muhtemldir bu şekilde hata çıkması, çoğu internette çözümü vardır. Ama yoğun olarak İngilizce araştırmak gereklidir.
 
-Projenin Adı: Dolandırıcılık Tespiti için Sentetik Finansal Veri Kümeleri
+**Projenin Adı:** Dolandırıcılık Tespiti için Sentetik Finansal Veri Kümeleri
 
-Ad/Soyad: Mohammad Amin / ASLAMI
+**Ad/Soyad:** Mohammad Amin / ASLAMI
 
-Danışman: Prof. Dr. Fatih ÖZKAYNAK
+**Danışman:** Prof. Dr. Fatih ÖZKAYNAK
 
-Ders Adı: Bitirme Projesi
+**Ders Adı:** Bitirme Projesi
 
-Kullanıldı Dil: Python
+**Kullanıldı Dil:** Python
 
-Fakülte/Bölüm: Teknoloji Fakültesi/Yazılım Mühendisliği
+**Fakülte/Bölüm:** Teknoloji Fakültesi/Yazılım Mühendisliği
 
-Üniversite: Fırat Üniversitesi/Elazığ
+**Üniversite:** Fırat Üniversitesi/Elazığ
