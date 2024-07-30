@@ -28,6 +28,6 @@ Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz
 
 **Kullanıldı Dil:** Python
 
-**Fakülte / Bölüm:** Teknoloji Fakültesi/Yazılım Mühendisliği
+**Fakülte / Bölüm:** Teknoloji Fakültesi / Yazılım Mühendisliği
 
-**Üniversite:** Fırat Üniversitesi/Elazığ
+**Üniversite:** Fırat Üniversitesi / Elazığ
