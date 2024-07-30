@@ -20,7 +20,7 @@ Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz
 
 **Projenin Adı:** Dolandırıcılık Tespiti için Sentetik Finansal Veri Kümeleri
 
-**Ad/Soyad:** Mohammad Amin / ASLAMI
+**Ad / Soyad:** Mohammad Amin / ASLAMI
 
 **Danışman:** Prof. Dr. Fatih ÖZKAYNAK
 
@@ -28,6 +28,6 @@ Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz
 
 **Kullanıldı Dil:** Python
 
-**Fakülte/Bölüm:** Teknoloji Fakültesi/Yazılım Mühendisliği
+**Fakülte / Bölüm:** Teknoloji Fakültesi/Yazılım Mühendisliği
 
 **Üniversite:** Fırat Üniversitesi/Elazığ
