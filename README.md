@@ -20,11 +20,13 @@ Kodları yazmmadan ve çalıştırmadan önce yukardaki kütühaneleri eklememiz
 
 Projenin Adı: Dolandırıcılık Tespiti için Sentetik Finansal Veri Kümeleri
 
-Kullanıldı Dil: Python
-
 Ad/Soyad: Mohammad Amin / ASLAMI
 
 Danışman: Prof. Dr. Fatih ÖZKAYNAK
+
+Ders Adı: Bitirme Projesi
+
+Kullanıldı Dil: Python
 
 Fakülte/Bölüm: Teknoloji Fakültesi/Yazılım Mühendisliği
 
