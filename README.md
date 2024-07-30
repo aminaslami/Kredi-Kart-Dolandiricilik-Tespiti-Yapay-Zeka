@@ -24,7 +24,7 @@ Kullanıldı Dil: Python
 
 Ad/Soyad: Mohammad Amin / ASLAMI
 
-Danışman: Prof.Dr.Fatih ÖZKAYNAK
+Danışman: Prof. Dr. Fatih ÖZKAYNAK
 
 Fakülte/Bölüm: Teknoloji Fakültesi/Yazılım Mühendisliği
 
